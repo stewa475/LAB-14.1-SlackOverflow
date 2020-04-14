@@ -1,1 +1,0 @@
-# SlackOverload Dapper/MVC demo
